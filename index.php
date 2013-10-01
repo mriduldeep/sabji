@@ -28,9 +28,10 @@
 <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
 <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
 </div>
+
 </div>		<!-- /carousal-->
 <div class="row span12">	<!--/ sabji row-->
-
+uyyfjhfjhfjhfjhfjhfjhfjhfjhgfjhgjhgjhfjhfhgfhgdjgfd
 </div>		<!-- /.row span12 sabji row end-->
 
 </div>		<!-- /.span8 offset1 -->
